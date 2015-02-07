@@ -29,7 +29,7 @@
 }
   
  #box1{
- background: url("edit1-4.png");
+ background: url("images/edit1-4.png");
  background-color: white;
  background-position:left bottom;
  background-size:contain;
@@ -54,7 +54,7 @@
   margin: 0px;}
  
   #box3{
- background: url("edit9~6.jpg");
+ background: url("images/edit9~6.jpg");
  background-color: black;
  background-size: 370px 750px;
  background-repeat: no-repeat;
@@ -76,7 +76,7 @@
  }
  
  #box4{
- background: url("edit7-2.png");
+ background: url("images/edit7-2.png");
  background-attachment: fixed;
  background-color: white;
  background-size: 350px 880px;
@@ -128,7 +128,7 @@
   margin: 0px;}
  
  #box6{
- background: url("edit8-1.png");
+ background: url("images/edit8-1.png");
  background-attachment: fixed;
  background-position: center;
  background-color: white;
@@ -225,7 +225,7 @@
  
  
  #box8{
- background: url("edit2-2.png");
+ background: url("images/edit2-2.png");
  background-attachment: fixed;
  background-color: white;
  background-position:left;
@@ -247,7 +247,7 @@
  margin: 0px;}
  
  #box9{
- background: url("zappos50.png");
+ background: url("images/zappos50.png");
  background-size: 100% 100%;
  background-position:center;
  background-repeat: no-repeat;
@@ -280,7 +280,7 @@
  
  
   #boxcontact{
- background: url("tel.png"), url("mail1.png");
+ background: url("images/tel.png"), url("images/mail1.png");
  background-color: #247996;
  background-position: right bottom;
  background-size: 380px 400px;
@@ -298,7 +298,7 @@
  }
  
  #boxlast{
- background: url("edit4-1.png");
+ background: url("images/edit4-1.png");
  background-color: white;
  background-position: right bottom;
  background-size: 400px 400px;
